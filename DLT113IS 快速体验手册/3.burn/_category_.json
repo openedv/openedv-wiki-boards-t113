@@ -1,0 +1,8 @@
+{
+  "label": "第三章 ATK-DLT113IS烧录系统",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description":"本章节简介如下：1.使用PhoenixSuit软件，烧录系统到EMMC/NAND 2.使用PhoenixCard软件，烧录系统到TF卡"
+  }
+}
